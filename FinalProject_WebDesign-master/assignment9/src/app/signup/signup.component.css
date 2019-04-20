@@ -1,0 +1,27 @@
+.signupForm{
+  margin-top: 10%;
+}
+
+.signupForm{
+  color:palevioletred;
+  width:40%;
+  margin-left: 30%;
+}
+
+.btn{
+  margin-left: 30%;
+  background-color: #c13181;
+  color: white;
+}
+
+.help-block {
+  font-size: 12px;
+  color:darkred;
+}
+
+#accountExists{
+  display: none;
+  font-size: 12px;
+  color:darkred;
+}
+

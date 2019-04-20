@@ -1,0 +1,66 @@
+.h1Words{
+  margin-top: 10%;
+  text-align:center;
+  color: palevioletred;
+}
+
+#firstname{
+  color:cornflowerblue;
+  font-size: 20px;
+}
+
+.signupForm{
+  margin-top: 3%;
+}
+
+.form-group{
+  color:palevioletred;
+  width:44%;
+  margin-left: 28%;
+}
+
+.profileBtn{
+  background-color: palevioletred;
+  margin-left: 28%;
+  color: white;
+}
+
+
+.goToworcester{
+  color:palevioletred;
+  width:60%;
+  margin-left: 25%;
+}
+
+#worcectserLink{
+  color: aliceblue;
+  background-color: burlywood;
+  font-size: 20px;
+  margin-left: 40px;
+  margin-right: 100px;
+}
+
+#bostonLink{
+  color: aliceblue;
+  background-color: cornflowerblue;
+  font-size: 20px;
+  margin-left: 40px;
+  margin-right: 100px;
+}
+
+#columbusLink{
+  color: aliceblue;
+  background-color: green;
+  font-size: 20px;
+  margin-left: 40px;
+  margin-right: 100px;
+}
+
+
+.savedDestinationTitle{
+  text-align:center;
+  color: white;
+  background-color: palevioletred;
+  font-size: 25px;
+  margin-left: 22%;
+}

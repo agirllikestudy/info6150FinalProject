@@ -1,0 +1,123 @@
+
+@import url('../../assets/css/style.css');
+
+nav{
+  font-family:'Trebuchet MS', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font-size: 50px;
+  width: 100%;
+  position: fixed;
+  border:0px double palevioletred;
+  opacity: 0.9;
+  z-index: 1;
+  top:0;
+  margin-bottom: 100px;
+}
+
+ul{
+  list-style-type: none;
+  overflow:hidden;
+  background-color: cornflowerblue;
+  opacity: 0.7;
+  text-align: left;
+}
+
+nav li {
+  display: inline-block;
+  width: auto;
+  color:blue;
+  z-index: 1;
+}
+
+nav li a{
+  display:inline-block;
+  padding: 10px; /* distance between words in navigation*/
+  color:white;
+  text-decoration: none;
+  font-weight:bolder;
+  margin-left: 60px;
+}
+
+
+nav ul li:hover{
+  background-color: cornflowerblue	;
+}
+
+nav ul li a:hover{
+  color: #2bdab5;	;
+}
+
+nav li:hover ul{
+  display:inline-block;
+  background-color: pink;
+  opacity: 0.7;
+  width:10%;
+}
+
+#helloName{
+  font-family:'Trebuchet MS', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font-size:15px;
+  float: right;
+  color: white;
+  padding-top: 40px;
+}
+
+.logOut{
+  display:inline-block;
+  color: purple;
+  margin-right: 10px;
+  font-size: 15px;
+}
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+/*------------------------------------Bootstrap 4 Home Page CSS----------------------------------------*/
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+
+
+.modal-content{
+  z-index: 1;
+}
+
+/*------------------------logo----------------------*/
+.header-logo {
+  padding-top: 0px;
+}
+.header-logo a, .header-logo a:hover,.header-logo a:focus {
+  color: #565a5c;
+  font-size:24px;
+  font-family: 'Poppins', sans-serif;
+  text-transform: capitalize;
+  font-weight: 600;
+  /* margin: 14px 0px 0; */
+  /* padding: 0px; */
+}
+.header-logo a>span {
+  color: #00d8ff;
+  text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
